@@ -1,1 +1,3 @@
-### <h1 align="center"><img src="img/popcatroll.gif" width="38px" />Rickroll Utilities</h1>
+# [![Logo](img/rutils%202.png)](https://github.com/techpointdev/RickrollUtilities)
+
+Random and stupid ways to rickroll your friends
